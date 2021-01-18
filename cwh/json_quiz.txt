@@ -1,0 +1,4 @@
+1. What is the standard MIME type for JSON? --application/json
+2. True or False: Data can be readily accessible using JSON objects. --True
+3. True or False: Objects can contain multiple name/values pairs. --True
+4. True or False: JSON objects are typed while XML data is typeless.--True

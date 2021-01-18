@@ -1,0 +1,9 @@
+{
+    "profiles":
+    {
+        "name" : "Harry",
+        "channel" : "CWH",
+        "friend" : "rohan",
+        "food":"soyabeans"
+    }
+}
